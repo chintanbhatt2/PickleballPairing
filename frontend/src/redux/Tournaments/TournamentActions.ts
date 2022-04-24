@@ -1,7 +1,6 @@
 import * as api from "../../api/Tournaments";
 import { ITournament, IPlayer } from "../../types/MongooseTypes";
 import * as types from "./TournamentTypes";
-import redux from "redux";
 
 //action creators
 export const getTournaments = () => async (dispatch: any) => {

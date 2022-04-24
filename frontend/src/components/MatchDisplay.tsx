@@ -1,16 +1,9 @@
-import * as api from "../api/Tournaments";
 import {
   Button,
   Card,
-  CardActionArea,
   CardActions,
   CardContent,
   Grid,
-  Table,
-  TableBody,
-  TableCell,
-  TableHead,
-  TableRow,
   TextField,
   Typography,
 } from "@mui/material";
