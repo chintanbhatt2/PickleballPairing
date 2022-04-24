@@ -1,0 +1,5 @@
+export const UPDATE_ALL = 'PLAYER_UPDATE_ALL'
+export const UPDATE_ELO = 'PLAYER_UPDATE_ELO'
+export const UPDATE_NAME = 'PLAYER_UPDATE_NAME'
+export const ADD_PLAYER = 'PLAYER_ADD'
+export const GET_ALL = 'PLAYER_GET_ALL'

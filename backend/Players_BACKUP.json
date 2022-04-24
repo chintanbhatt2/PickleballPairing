@@ -1,0 +1,92 @@
+[{
+  "_id": {
+    "$oid": "6254788d98220787b33b893d"
+  },
+  "Name": "Aldrin",
+  "Elo": 2.812,
+  "GamesPlayed": 0
+},{
+  "_id": {
+    "$oid": "625478a698220787b33b893e"
+  },
+  "Name": "Austin",
+  "Elo": 2.566,
+  "GamesPlayed": 0
+},{
+  "_id": {
+    "$oid": "625478c898220787b33b893f"
+  },
+  "Name": "Chad",
+  "Elo": 2.392,
+  "GamesPlayed": 0
+},{
+  "_id": {
+    "$oid": "625478d098220787b33b8940"
+  },
+  "Name": "Chintan",
+  "Elo": 2.46,
+  "GamesPlayed": 0
+},{
+  "_id": {
+    "$oid": "625478d998220787b33b8941"
+  },
+  "Name": "Emmery",
+  "Elo": 2.525,
+  "GamesPlayed": 0
+},{
+  "_id": {
+    "$oid": "625478e098220787b33b8942"
+  },
+  "Name": "Jake",
+  "Elo": 2.546,
+  "GamesPlayed": 0
+},{
+  "_id": {
+    "$oid": "625478ea98220787b33b8943"
+  },
+  "Name": "Kindra",
+  "Elo": 2.498,
+  "GamesPlayed": 0
+},{
+  "_id": {
+    "$oid": "625478f498220787b33b8944"
+  },
+  "Name": "Mandy",
+  "Elo": 2.23,
+  "GamesPlayed": 0
+},{
+  "_id": {
+    "$oid": "625478fa98220787b33b8945"
+  },
+  "Name": "Nick",
+  "Elo": 2.482,
+  "GamesPlayed": 0
+},{
+  "_id": {
+    "$oid": "6254790198220787b33b8946"
+  },
+  "Name": "Robert",
+  "Elo": 2.421,
+  "GamesPlayed": 0
+},{
+  "_id": {
+    "$oid": "6254790898220787b33b8947"
+  },
+  "Name": "Stephanie",
+  "Elo": 2.38,
+  "GamesPlayed": 0
+},{
+  "_id": {
+    "$oid": "6254790e98220787b33b8948"
+  },
+  "Name": "Steve",
+  "Elo": 2.573,
+  "GamesPlayed": 0
+},{
+  "_id": {
+    "$oid": "6254792398220787b33b8949"
+  },
+  "Name": "Abe",
+  "Elo": 2.615,
+  "GamesPlayed": 0
+}]

@@ -1,0 +1,11 @@
+{
+    "extends": "@tsconfig/recommended/tsconfig.json",
+    "include": ["src/*"],
+    "compilerOptions": {
+        "target": "ES6",
+        "jsx": "react",
+        "allowSyntheticDefaultImports": true 
+    }
+
+
+}
