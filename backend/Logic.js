@@ -1,7 +1,5 @@
 //For now just dump all the functions here and sort them later
-import mongoose from "mongoose";
 import { Match } from "./schemas/Match.js";
-import { Player } from "./schemas/Player.js";
 
 export function CreateNewTournament(TournamentName, Players) {
     const NewTourney = new Tournament({
